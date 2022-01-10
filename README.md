@@ -1,4 +1,4 @@
 ### Hey! 👋 
-### I'm a Full Stack Web Developer :v:
+### I'm a Sofware Developer :v:
 
 
