@@ -29,8 +29,6 @@
 
 ![Maryam's github stats](https://github-readme-stats.vercel.app/api?username=maryammuchai&theme=midnight-purple) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maryammuchai&theme=midnight-purple)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maryammuchai&theme=midnight-purple" alt="maryammuchai" /></p>
-
 <br>
 <h3 align="center">Connect with me ☕:</h3>
 <div align="center">
