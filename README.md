@@ -1,7 +1,10 @@
 <h1 align="center">Hi , I'm Maryam Muchai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
-<h4 align="center">I am a passionate Python and Front-End developer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+* I am a passionate Python and Javascript developer. 
+* I like to Code, Design, Innovate and Experiment. 
+* I am an enthusiastic person who loves to take up new challenges and learn new skills. 
+* I love meeting new people, exchanging ideas and spreading knowledge and positivity.
 
 * I solve problems daily and update on **[ Data-Structures-Interview-Prep-JS repo ](https://github.com/MaryamMuchai/Data-Structures-Algorithms-Prep)** - continually updated</h4>
 <br>
